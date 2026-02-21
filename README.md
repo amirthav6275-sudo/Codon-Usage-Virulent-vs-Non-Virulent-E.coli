@@ -34,4 +34,7 @@ Genes encoding virulence factors seemed to choose virulence-associated codons, i
 Codon usage bias serves to optimize translational efficacy and gene expression. 
 In contrast, housekeeping genes exhibited codon balance that reflects their cellular necessity 
 
+# Publication
+This work was presented in a conference and published as conference proceedings
+
 
